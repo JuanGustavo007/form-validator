@@ -1,0 +1,35 @@
+body {
+    background-color: #2d2727;
+}
+label {
+    color: white;
+}
+form {
+    background-color: #413543;
+    padding: 30px;
+    border-radius: 20px;
+}
+#emailHelp {
+    color: white;
+}
+.btn {
+    background-color: #f0eb8d;
+    border: none;
+    color: #3c4048;
+}
+.btn:hover {
+    background-color: #00abb3;
+    color: #3c4048;
+}
+.bordaErro {
+    border: 2px solid red;
+}
+
+.alert {
+    position: absolute;
+    right: 60px;
+    top: 20px;
+    height: 100px;
+    width: 300px;
+    visibility: hidden;
+}
